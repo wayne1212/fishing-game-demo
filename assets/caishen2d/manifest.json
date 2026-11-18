@@ -1,0 +1,41 @@
+{
+  "source": [
+    "1_財神2D正式檔_part1of5.zip",
+    "2_財神2D正式檔_part2of5.zip",
+    "3_財神2D正式檔_part3of5.zip",
+    "4_財神2D正式檔_part4of5.zip",
+    "5_財神2D正式檔_part5of5.zip"
+  ],
+  "fps": 24,
+  "sourceCanvas": [704, 896],
+  "sourcePivot": [352, 804],
+  "atlasCell": [264, 336],
+  "atlasPage": [1848, 2016],
+  "atlasGrid": [7, 6],
+  "clips": {
+    "spawn": 24,
+    "walk": 42,
+    "idle": 36,
+    "idle_wave": 73,
+    "idle_beard": 73,
+    "idle_show_ingot": 73,
+    "celebrate": 73,
+    "coin_toss": 97
+  },
+  "sha256": {
+    "celebrate_0.png": "350d88855cde7efc43573b4e3489e4f39000508a78613907d839993021b153bc",
+    "celebrate_1.png": "95253967326822a0dd597a882eec9af8f0023354561ce5481e28e156cc8f35bd",
+    "coin_toss_0.png": "f2bc69146809d56cd6d619fe221407396a84847bb26455a1172f830f71b7fc67",
+    "coin_toss_1.png": "6ddbd00ae488f247cc2f8b954567972c201022c494a845bdf55c8c878cf39b9c",
+    "coin_toss_2.png": "57a804f5b30ac3932d26f7e8c1c59a73563c7a861e7f1c809b6a1a6de0ef1bce",
+    "idle_0.png": "31573060a0d36148f9625eca72c0c355098f39e4eebb953269aa86d671ff5694",
+    "idle_beard_0.png": "a7bc7927fd7c9d48cb22f893039a53270cd5e975eacec6ae13fa8e9af41f054e",
+    "idle_beard_1.png": "a521e4c99e7605a50af9a7673fb3c1f81552fefc1c22fdf7c000d9ee82cad8fe",
+    "idle_show_ingot_0.png": "c7477573b22a27287eb0774696f14d5d93ffedbb450a68a7feaf6e29b62cb8e6",
+    "idle_show_ingot_1.png": "f5bb0cd82dfc0e8f6e65f811982dbbbd854d6f43285efd4c93a3e79aa59f5105",
+    "idle_wave_0.png": "9345b0e562ca399187152deca26171d851b21e54bb5bc842cb1bc636394fd83a",
+    "idle_wave_1.png": "e69521bf52df8345441ec9fd2aecbf9062d730c829b942b05fb9db8c69623644",
+    "spawn_0.png": "0c4dd4dc43ea71e2b61a05db407cb26456e5d502abb1cd2cc4e38c5c7d50209f",
+    "walk_0.png": "d472527a2988d39cb368629a0ef3167be8dedb71ad252fe2d369e5d7ae02df58"
+  }
+}

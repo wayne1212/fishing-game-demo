@@ -1,0 +1,44 @@
+{
+  "fps": 24,
+  "alpha": "straight",
+  "sequences": {
+    "explosion_small": {
+      "frames": 8,
+      "seconds": 0.333,
+      "size": 384,
+      "beats": "core flash → burst → ring+smoke fade",
+      "use": "small fish death at fx_death"
+    },
+    "explosion_large": {
+      "frames": 22,
+      "seconds": 0.917,
+      "size": 512,
+      "beats": "charge 0–0.27s-scale, burst, dissipate; ~0.92s",
+      "use": "large fish death at fx_death; do not cover the full screen"
+    },
+    "hit_spark": {
+      "frames": 8,
+      "seconds": 0.333,
+      "size": 256,
+      "use": "per-hit spark, extra to the official still spark_blue"
+    },
+    "energy_burst": {
+      "frames": 10,
+      "seconds": 0.417,
+      "size": 256,
+      "use": "tide-core / coin pickup; extra"
+    },
+    "smoke_puff_soft": {
+      "frames": 8,
+      "seconds": 0.333,
+      "size": 256,
+      "use": "optional flipbook if no particle system; attach fx_smoke_L/R"
+    },
+    "smoke_puff_dark": {
+      "frames": 8,
+      "seconds": 0.333,
+      "size": 256,
+      "use": "damaged state (<60% integrity) dark smoke flipbook"
+    }
+  }
+}
